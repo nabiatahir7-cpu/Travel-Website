@@ -1,0 +1,8 @@
+wwwroot\about.html
+wwwroot\company-img.jpg
+wwwroot\contact.html
+wwwroot\header-image.jpg
+wwwroot\index.html
+wwwroot\showcase-photo2.jpg
+wwwroot\showcase-photo3.jpg
+wwwroot\style.css
